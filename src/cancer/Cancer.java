@@ -9,6 +9,7 @@ import java.io.*;
 /**
  *
  * @author Gloria Song
+ * Date : 2018/11/4
  */
 public class Cancer {
 
